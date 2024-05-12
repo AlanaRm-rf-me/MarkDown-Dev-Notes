@@ -11,18 +11,18 @@ body {
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
-  
+
   margin: 5em auto;
   height: 100vh;
-  
+
   font-family: 'Inter';
   background-color: var(--black);
-  
+
 }
 
 body > * {
   filter: blur(4px);
-  
+
 }
 
 .container {
@@ -79,7 +79,7 @@ a {
   text-decoration: none;
   color: inherit;
   z-index: 5;
-  
+
 }
 
 a > * {
@@ -112,7 +112,7 @@ a > * {
   width: 100%;
   justify-content: space-between;
   box-sizing: border-box;
-  
+
   animation: set1 1s infinite;
 }
 
@@ -126,7 +126,7 @@ a > * {
   width: 100%;
   justify-content: space-between;
   box-sizing: border-box;
-  
+
   animation: set2 1s infinite;
 }
 
@@ -140,7 +140,7 @@ a > * {
   width: 100%;
   justify-content: space-between;
   box-sizing: border-box;
-  
+
   animation: set3 1s infinite;
 }
 
